@@ -14,25 +14,25 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY.git"
+      "url": "https://github.com/cyber-suhan/CYBER-BOT-COMMUNITY.git"
   },
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "suhanproject",
       "messenger",
       "javasvript",
-      "ullash",
-      "cyberullash",
-      "cyberRajib ",
+      "suhan",
+      "cybersuhan",
+      "cybersuhan ",
       "islamick chat bot"
   ],
-  "author": "Ullash ッ",
+  "author": "suhan ッ",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
+      "url": "https://github.com/cyber-suhan/CYBER-BOT-COMMUNITY/issues"
   },
-  "homepage": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues",
+  "homepage": "https://github.com/cyber-suhan/CYBER-BOT-COMMUNITY/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
