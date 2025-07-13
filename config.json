@@ -20,11 +20,11 @@
     "PREFIX": "/",
     "ADMINBOT": [
         "suhan.chaudhary.734805",
-        "734805",
+        "suhan.chaudhary.734805",
         ""
     ],
     "NDH": [
-        "734805"
+        "suhan.chaudhary.734805"
     ],
     "DATABASE": {
         "sqlite": {
